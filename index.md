@@ -8,11 +8,17 @@ layout: default
 Hello! Welcome to my page!
 
 ## Table of Contents
-- [About Me](#a-little-about-me)
-- [Classes I'm Taking](#my-spring-quarter)
-- [My Interests](#what-im-interested-in)
-- - [Screenshots from Lab](#screenshots)
-[View the README](./README.md)
+- [Preity's User Page](#preitys-user-page)
+  - [Table of Contents](#table-of-contents)
+  - [A Little About Me](#a-little-about-me)
+  - [My Spring Quarter](#my-spring-quarter)
+  - [What I'm interested in](#what-im-interested-in)
+  - [Languages (Ranked)](#languages-ranked)
+  - [Some quotes I like](#some-quotes-i-like)
+  - [Code Snippet](#code-snippet)
+  - [Screenshots](#screenshots)
+    - [Git Command Line](#git-command-line)
+    - [VSCode UI](#vscode-ui)
 
 ## A Little About Me
 - I'm a second year **computer science** student at [UC San Diego](https://ucsd.edu). 
@@ -47,7 +53,7 @@ java public class HelloWorld {
     public static void main(String[] args) { 
         System.out.println("Hello, world!"); 
     }
-} ``` </code> </pre>
+} </code> </pre>
 
 ## Screenshots
 ### Git Command Line
