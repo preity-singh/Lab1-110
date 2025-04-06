@@ -8,10 +8,10 @@ layout: default
 Hello! Welcome to my page!
 
 ## Table of Contents
-[About Me](#a-little-about-me)
-[Classes I'm Taking](#my-spring-quarter)
-[My Interests](#what-im-interested-in)
-[Screenshots from Lab](#screenshots)
+- [About Me](#a-little-about-me)
+- [Classes I'm Taking](#my-spring-quarter)
+- [My Interests](#what-im-interested-in)
+- - [Screenshots from Lab](#screenshots)
 [View the README](./README.md)
 
 ## A Little About Me
@@ -38,11 +38,16 @@ Hello! Welcome to my page!
 4. C (booooo)
   
 ## Some quotes I like 
-> "The mountains are calling, and I must go!" - John Muir 
-> "Hard work works hard" - My dad?
+- > "The mountains are calling, and I must go!" - John Muir 
+- > "Hard work works hard" - My dad?
 
 ## Code Snippet 
-<pre> <code> ```java public class HelloWorld { public static void main(String[] args) { System.out.println("Hello, world!"); } } ``` </code> </pre>
+<pre> <code> 
+java public class HelloWorld { 
+    public static void main(String[] args) { 
+        System.out.println("Hello, world!"); 
+    }
+} ``` </code> </pre>
 
 ## Screenshots
 ### Git Command Line
